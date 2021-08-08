@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name is Harmandeep Singh Anandi 
+### My name is Harmandeep Singh Anandi !
 
 I am a Aspiring Web developer with an experience of building applications using Java, MySQL & Ajax. Over the past few years, I have worked in the fields of Risk Analysis and Operations Supervision.
 
