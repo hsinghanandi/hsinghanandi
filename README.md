@@ -3,7 +3,7 @@
 
 I am a Aspiring Web developer with an experience of building applications using Java, MySQL & Ajax. Over the past few years, I have worked in the fields of Risk Analysis and Operations Supervision.
 
-Presently, I'm learning Web Development for the MERN stack and pursing a Post-Graduate Diploma at Langara College, Vancouver, BC. I am passionate about Software Development because of its ability to transform ideas into reality, which inspires me a lot. :heart:
+Presently, I'm learning Web Development for the MERN stack and pursing a Post-Graduate Diploma in Web & Mobile Application Development at Langara College, Vancouver, BC. I am passionate about Software Development because of its ability to transform ideas into reality, which inspires me a lot. :heart:
 
 Stay Tuned for my upcoming projects :nerd_face:	
 
