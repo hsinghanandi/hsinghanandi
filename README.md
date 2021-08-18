@@ -1,9 +1,9 @@
 ### Hi there 👋
 ### My name is Harmandeep Singh Anandi !
 
-I'm an Aspiring Web developer with an experience of building applications using Java, MySQL & Ajax. Over the past few years, I have worked in the fields of Risk Analysis and Operations Supervision.
+I'm an Aspiring Web developer with experience in building applications using Java, MySQL & Ajax. Over the past few years, I have worked in the fields of Risk Analysis and Operations Supervision.
 
-Presently, I'm learning Web Development for the MERN stack and pursing a Post-Graduate Diploma in Web & Mobile Application Development at Langara College, Vancouver, CA. As someone passionate about Software Development, I'm captivated by its ability to turn ideas into reality, hence enhancing our lives in the process :heart:
+Presently, I'm learning Web Development for the MERN stack and pursuing a Post-Graduate Diploma in Web & Mobile Application Development at Langara College, Vancouver, CA. As someone passionate about Software Development, I'm captivated by its ability to turn ideas into reality, hence enhancing our lives in the process :heart:
 
 Stay Tuned for my upcoming projects :nerd_face:	
 
