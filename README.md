@@ -5,7 +5,7 @@ I'm an Aspiring Web developer with experience in building applications using Jav
 
 Presently, I'm learning Web Development for the MERN stack and pursuing a Post-Graduate Diploma in Web & Mobile Application Development at Langara College, Vancouver, CA. As someone passionate about Software Development, I'm captivated by its ability to turn ideas into reality, hence enhancing our lives in the process :heart:
 
-Stay Tuned for my upcoming projects :nerd_face:	
+Currently, I am expanding my repertoire of projects. Stay Tuned for the upcoming ones! :nerd_face:	
 
 <!-- You can check my <a href="" target="blank" >Portfolio</a>. -->
 
