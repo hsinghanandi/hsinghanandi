@@ -1,13 +1,34 @@
 ### Hi there 👋
 ### My name is Harmandeep Singh Anandi !
 
-I'm an Aspiring Web developer with experience in building applications using Java, MySQL & Ajax. Over the past few years, I have worked in the fields of Risk Analysis and Operations Supervision.
+I'm an Aspiring Web developer with an academic experience in building applications using Java, MySQL & Ajax. Over the past few years, I have worked in the fields of Risk Analysis and Operations Supervision.
 
 Presently, I'm learning Web Development for the MERN stack and pursuing a Post-Graduate Diploma in Web & Mobile Application Development at Langara College, Vancouver, CA. As someone passionate about Software Development, I'm captivated by its ability to turn ideas into reality, hence enhancing our lives in the process :heart:
 
 Currently, I am expanding my repertoire of projects. Stay Tuned for the upcoming ones! :nerd_face:	
 
 <!-- You can check my <a href="" target="blank" >Portfolio</a>. -->
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="GraphQL" width="26px" src="https://img.icons8.com/color/144/000000/graphql.png"/>
+<img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/color/96/000000/nodejs.png"/>
+<img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/color/144/000000/mysql-logo.png"/>
+<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/>
+<img align="left" alt="Git" width="30px" src="https://img.icons8.com/color/144/000000/git.png"/>
+<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/glyph-neue/128/000000/github.png"/>
+<img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/wired/128/000000/postman-api.png"/>
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+
+### Connect with me:
 
 <span align="center">
 <a href="mailto:hsinghanandi@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
@@ -17,15 +38,4 @@ Currently, I am expanding my repertoire of projects. Stay Tuned for the upcoming
 
 <!--
 **hsinghanandi/hsinghanandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
