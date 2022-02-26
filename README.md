@@ -5,7 +5,7 @@ I'm an Aspiring Web developer with an academic experience in building applicatio
 
 Presently, I'm learning Web Development for the MERN stack and pursuing a Post-Graduate Diploma in Web & Mobile Application Development at Langara College, Vancouver, CA. As someone passionate about Software Development, I'm captivated by its ability to turn ideas into reality, hence enhancing our lives in the process :heart:
 
-Currently, I am expanding my repertoire of projects!!
+Currently, I am expanding my repertoire of projects !!
 
 <!-- You can check my <a href="" target="blank" >Portfolio</a>. -->
 
