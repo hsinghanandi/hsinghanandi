@@ -1,11 +1,9 @@
 ### Hi there 👋
 ### My name is Harmandeep Singh Anandi !
 
-I'm an Aspiring Web developer with an academic experience in building applications using Java, MySQL & Ajax. Over the past few years, I have worked in the fields of Risk Analysis and Operations Supervision.
+I am a Full Stack Developer who specializes in developing mobile and web applications using the MERN stack.
 
-Presently, I'm learning Web Development for the MERN stack and pursuing a Post-Graduate Diploma in Web & Mobile Application Development at Langara College, Vancouver, CA. As someone passionate about Software Development, I'm captivated by its ability to turn ideas into reality, hence enhancing our lives in the process :heart:
-
-Currently, I am expanding my repertoire of projects !!
+As someone who is committed to Software Development, I am fascinated by its ability to turn ideas into reality, thus enhancing our lives! :heart:
 
 <!-- You can check my <a href="" target="blank" >Portfolio</a>. -->
 
@@ -31,9 +29,9 @@ Currently, I am expanding my repertoire of projects !!
 ### Connect with me:
 
 <span align="center">
-<a href="mailto:hsinghanandi@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
-<a href="https://www.linkedin.com/in/hsinghanandi/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
-<a href="https://twitter.com/hsinghanandi"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<a href="mailto:hsinghanandi@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+<a href="https://www.linkedin.com/in/hsinghanandi/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+<a href="https://twitter.com/hsinghanandi" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 </span>
 
 <!--
