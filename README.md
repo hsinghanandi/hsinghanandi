@@ -20,8 +20,8 @@ As someone who is committed to Software Development, I am fascinated by its abil
 <img align="left" alt="MySQL" width="34px" src="https://img.icons8.com/color/144/000000/mysql-logo.png"/>
 <img align="left" alt="MongoDB" width="34px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/>
 <img align="left" alt="Git" width="34px" src="https://img.icons8.com/color/144/000000/git.png"/>
-<img align="left" alt="GitHub" width="34px" src="https://img.icons8.com/glyph-neue/128/000000/github.png"/>
-<img align="left" alt="Terminal" width="34px" src="https://img.icons8.com/wired/128/000000/postman-api.png"/>
+<img align="left" alt="GitHub" width="34px" src="https://img.icons8.com/stickers/200/000000/github.png"/>
+<img align="left" alt="Postman" width="34px" src="https://img.icons8.com/dusk/64/000000/postman-api.png"/>
 <img align="left" alt="Terminal" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
